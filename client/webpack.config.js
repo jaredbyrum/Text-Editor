@@ -39,8 +39,8 @@ module.exports = () => {
         description: 'Take your editor anywhere.',
         background_color: '#225ca3',
         theme_color: '#255ca3',
-        start_url: '/',
-        publicPath: '/',
+        start_url: './',
+        publicPath: './',
         icons: [
           {
             src: path.resolve('src/images/logo.png'),
